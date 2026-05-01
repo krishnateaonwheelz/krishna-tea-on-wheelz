@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Services</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header><h1>Our Service</h1></header>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="services.html">Services</a>
+<a href="menu.html">Menu</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+<div class="container">
+<ul>
+<li>Serving tea at offices and shops</li>
+<li>Cycle-based service</li>
+<li>Route-based serving (not instant delivery)</li>
+<li>Snacks available</li>
+</ul>
+</div>
+
+</body>
+</html>
